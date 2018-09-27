@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PP Base lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/parSynchType.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pp.synch.model.Type.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ppThreadsRun.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
